@@ -1,10 +1,12 @@
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hd0rable&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/hd0rable"
-  width="600"
-  height="300"
-/>
-</a>
+<div align="center">
+ <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hd0rable&utm_content=farm">
+  <img
+   src="https://render.gitanimals.org/farms/hd0rable"
+   width="600"
+   height="300"
+  />
+ </a>
+</div>
 
 <!--
 **hd0rable/hd0rable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
